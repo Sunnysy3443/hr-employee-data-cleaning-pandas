@@ -1,0 +1,31 @@
+Employee_ID,Employee_Name,Department,Designation,Salary,Join_Date,Status
+101, Aarav Sharma ,Sales,Sales Executive,45000,2021-03-15,Active
+102,Priya Mehta,sales,Sales Manager,68000,15/06/2020,active
+103,Rohan Gupta,IT,Software Engineer,72000,2022-01-10,Active
+104, Sneha Verma,HR,HR Executive,,2021-07-22,ACTIVE
+105,Karan Singh,IT,Software Engineer,71000,2022-01-10,Resigned
+106,Aarav Sharma,Sales,Sales Executive,45000,2021-03-15,Active
+107,Meera Joshi,Marketing,Marketing Executive,52000,Jan 5 2020,Active
+108,Vikram Rao,IT,Senior Software Engineer,95000,2019-11-30,active
+109,Ananya Iyer,HR,HR Manager,78000,2018-05-14,Active
+110,Rahul Nair,SALES,Sales Executive,,20/09/2021,Resigned
+111,Divya Kapoor,Marketing,,55000,2022-03-08,Active
+112,Arjun Malhotra,IT,Software Engineer,73000,2021-12-01,active
+113,Isha Reddy,Finance,Finance Analyst,60000,2020-08-19,Active
+114,Aditya Kumar,Finance,Finance Manager,,2019-02-27,ACTIVE
+115,Pooja Desai,hr,HR Executive,48000,2022-06-15,Resigned
+116,Rohan Gupta,IT,Software Engineer,72000,2022-01-10,Active
+117,Nikhil Bhatt,Sales,Sales Executive,46000,03/11/2020,Active
+118,Tanya Chopra,Marketing,Marketing Manager,74000,2019-04-22,active
+119,Sameer Khan,IT,Software Engineer,,2023-02-14,Active
+120,Kavya Menon,Finance,Finance Analyst,59000,2021-10-05,Resigned
+121, Ravi Pillai,HR,HR Executive,47000,2020-12-19,Active
+122,Neha Saxena,Sales,Sales Manager,69000,2018-09-08,ACTIVE
+123,Amit Trivedi,IT,Software Engineer,70000,2022-05-30,active
+124,Shreya Banerjee,Marketing,Marketing Executive,53000,Feb 18 2021,Active
+125,Vivaan Chauhan,Finance,Finance Analyst,,2020-01-25,Resigned
+126,Anjali Mishra,HR,HR Executive,48500,2021-11-11,Active
+127,Karthik Subramaniam,IT,Software Engineer,71500,2022-08-02,Active
+128,Priya Mehta,Sales,Sales Manager,68000,15/06/2020,Active
+129,Yash Agarwal,Marketing,Marketing Executive,,2023-01-09,active
+130,Riya Kulkarni,Finance,Finance Manager,82000,2019-07-17,Active
