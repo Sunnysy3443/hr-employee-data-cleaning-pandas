@@ -38,6 +38,6 @@ Result: 30 raw rows became 27 cleaned rows.
 I used pandas to clean the data by filling missing values, removing extra spaces that would break grouping and counting, and removing duplicate employee entries that had different IDs. I then used matplotlib to visualize attrition by department.
 
 ![Attrition by Department](./attrition_by_department.png)
-![Missing Values Fixed](./screenshots/missing_values.png)
-![Duplicates Removed](./screenshots/duplicates.png)
-![Raw vs Cleaned](./screenshots/raw_vs_cleaned.png)
+![Missing Values Fixed](./missing_values.png)
+![Duplicates Removed](./duplicates.png)
+![Raw vs Cleaned](./raw_vs_cleaned.png)
